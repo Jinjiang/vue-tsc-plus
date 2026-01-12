@@ -34,6 +34,7 @@
     "dist"
   ],
   "scripts": {
+    "prepublish": "pnpm build",
     "build": "tsc -p tsconfig.json",
     "type-check": "tsc --noEmit"
   },
