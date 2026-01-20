@@ -1,6 +1,6 @@
 # vue-tsc-plus
 
-A thin wrapper around `vue-tsc` with room for extra extensions. Exposes both a CLI (`vue-tsc-plus`) and a small Node API. Besides `vue-tsc`, it cam compile `.vue` files into JavaScript and CSS files.
+A thin wrapper around `vue-tsc` with room for extra extensions. Exposes both a CLI (`vue-tsc-plus`) and a tiny Node API. Besides `vue-tsc`, it can compile `.vue` files into JavaScript and CSS files.
 
 ## Install
 
